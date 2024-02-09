@@ -4,3 +4,21 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+
+body {
+    background-color: #181425;
+    font-family: "Orbitron", sans-serif;
+    color: #34FB37;
+    text-align: center;
+    padding: 0px 20px;
+}
+
+h1 {
+    font-size: 3em;
+    padding: 50px 0px;
+}
+
+#result {
+    font-size: 4em;
+}
