@@ -12,13 +12,29 @@ body {
     color: #34FB37;
     text-align: center;
     padding: 0px 20px;
+    font-weight: bold;
 }
 
 h1 {
+    margin: 100px 0px;
     font-size: 3em;
-    padding: 50px 0px;
+}
+
+#countdown {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    font-size: 3em;
+}
+
+.time {
+    border: 2px solid #34FB37;
+    padding: 10px 20px;
+    border-radius: 20px;
 }
 
 #result {
-    font-size: 4em;
+    font-size: 3em;
+    margin: 100px 0px;
 }
